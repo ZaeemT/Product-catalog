@@ -1,4 +1,3 @@
-// pages/product/[id].js
 import { useDispatch } from 'react-redux';
 import { addToCart } from '../../store/cartSlice';
 
